@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-06-22T10:23:29Z" name="Default suite" finished-at="2021-06-22T10:23:31Z" duration-ms="1814">
+    <groups>
+    </groups>
+    <test started-at="2021-06-22T10:23:29Z" name="Default test" finished-at="2021-06-22T10:23:31Z" duration-ms="1814">
+      <class name="com.rmg.Authentication.DiffAuthenticationTest">
+        <test-method signature="basicAuth()[pri:0, instance:com.rmg.Authentication.DiffAuthenticationTest@7fc4780b]" started-at="2021-06-22T15:53:29Z" name="basicAuth" finished-at="2021-06-22T15:53:31Z" duration-ms="1785" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- basicAuth -->
+      </class> <!-- com.rmg.Authentication.DiffAuthenticationTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
